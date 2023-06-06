@@ -20,9 +20,9 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🛍 [Serious SQL - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Marketing, product and campaign analysis | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | 
-| 👩‍💼 [Employee Info](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study) | Employee Info Analysis | Analyis on Employee database implementing all the concepts of SQL. | 
-| 🎦 [IMDB Movie](https://github.com/sarathchandrikak/ImDb-Data-Analysis) | Data cleaning, transformation, and analysis | Analysis of RSVP Indian film production data of past 3 years Movie data to release a movie for global audience. | 
+| 🛍 [Serious SQL - Ongoing](https://github.com/sarathchandrikak/Serious-SQL) | Data Analysis Queries | Apprenticeship of SQL Queries | 
+| 👩‍💼 [Employee Info](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study) | Employee Info Analysis | Analyis on Employee database implementing all the concepts of SQL | 
+| 🎦 [IMDB Movie](https://github.com/sarathchandrikak/ImDb-Data-Analysis) | Data cleaning, transformation, Analysis | Analysis of RSVP Indian film production data of past 3 years Movie data to release a movie for global audience | 
 
 ***
 
