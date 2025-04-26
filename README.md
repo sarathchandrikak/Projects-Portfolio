@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-<!-- - [Tableau](#tableau) -->
+- [Tableau](#tableau)
 
 # Data Engineering
 
@@ -45,5 +45,8 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 | Project Link | Project Description | Dashboard Link  |
 |---|---|---|
 | 📺 [Netflix Data](https://github.com/sarathchandrikak/Data-Projects/tree/main/Netflix%20Dashboard) | Perform Descriptive analysis of Netflix shows / movie data | [Dashboard Link](https://public.tableau.com/app/profile/sarath.chandrika.k/viz/NetflixDashboard_17158614919520/NetflixDashboard) |
+| 🍔 Meal Delivery Data | Perform Descriptive analysis of orders placed for a Meal Delivery Company | [Dashboard Link](https://public.tableau.com/app/profile/sarath.chandrika.k/viz/Capstone_16299999014860/MealDeliveryCompanyAnalysis) |
+| 👩🏼‍🔧 IT Service Tickets | Perform Analysis of IT service tickets logged by a company | [Dashboard Link](https://public.tableau.com/app/profile/sarath.chandrika.k/viz/OnyxDataMayChallenge/Dashboard1) |
+
 
 ***
